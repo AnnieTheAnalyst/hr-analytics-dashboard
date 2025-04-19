@@ -9,7 +9,7 @@
 - `HRDataset_v14.xlsx` - Synthetic dataset for practice.
   
 ## 🎨 **Dashboard Design**  
-- **Background Image**: Used in the Power BI report (HR Analytics.png`)
+- **Background Image**: ![Dashboard Background](https://github.com/AnnieTheAnalyst/hr-analytics-dashboard/blob/main/HR%20Analytics.png?raw=true)
 
 
 ---
