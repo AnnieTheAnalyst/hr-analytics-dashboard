@@ -33,7 +33,7 @@ Use the provided **HRDataset_v14 (1).xlsx** to:
    - *KPIS:* Headcount, Attrition, Attrition %, Avg. Age, Avg. Salary
    - Feel free to include or change any other metrics / visuals
 
-*Design inspired by [YouTube Tutorial Name](https://www.youtube.com/watch?v=bYmcCTsP0Zg&ab_channel=DataMindsAcademy) (customized with additional metrics).*  
+*Design inspired by [@DataMindsAcademy](https://www.youtube.com/watch?v=bYmcCTsP0Zg&ab_channel=DataMindsAcademy) (customized with additional metrics).*  
 
 ---
 
