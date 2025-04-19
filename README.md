@@ -18,18 +18,23 @@
 
 ### For Inspiration  
 Explore my **HR Analytics 2.pbix** to:  
-- See how I designed metrics for headcount by department, attrition rates, and trends.  
+- See how I designed metrics 
 - Get ideas for layout, color schemes, and interactive filters.  
 
 ### For Hands-On Practice  
 Use the provided **HRDataset_v14 (1).xlsx** to:  
 1. **Recreate** a similar dashboard with your own tweaks.  
 2. **Practice** calculating:  
-   - Headcount by department/tenure  
-   - Monthly attrition rates  
-   - Diversity ratios  
+   - Headcount by Department
+   - Headcount by Age (bins)
+   - Drillthrough into Detailed View
+   - Yearly attrition (including a custom tooltip for reasons for attrition)
+   - Attrition by Marital Status and Gender
+   - Comparison of Yearly Attrition and Cumulative Attrition
+   - *KPIS:* Headcount, Attrition, Attrition %, Avg. Age, Avg. Salary
+   - Feel free to include or change any other metrics / visuals
 
-*Design inspired by [YouTube Tutorial Name](https://youtube.com/...) (customized with additional metrics).*  
+*Design inspired by [YouTube Tutorial Name](https://www.youtube.com/watch?v=bYmcCTsP0Zg&ab_channel=DataMindsAcademy) (customized with additional metrics).*  
 
 ---
 
