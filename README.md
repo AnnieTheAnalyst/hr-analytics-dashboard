@@ -2,7 +2,7 @@
 **Power BI Dashboard for Workforce Insights**  
 *Track headcount by department, headcount by age, headcount by recruitment source and attrition trends*  
 
-![Dashboard Screenshot](screenshot.png)  
+![Dashboard Screenshot](HR Analytics.png)  
 *(Example of the live dashboard with background design)*  
 **Included Files**:  
 - `HR Analytics 2.pbix` - Ready-to-explore Power BI dashboard.  
